@@ -1,9 +1,5 @@
 # React-Native awesome palette color generator 🔥🔥
 
-![Screenshot_1633162299]()
-![Screenshot_1633162290]()
-
-
 
 
 <table>
